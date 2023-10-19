@@ -1,0 +1,18 @@
+.item-card-container {
+    max-width: 400px;
+    padding: 20px;
+    background-color: skyblue;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .item-card-container h2 {
+    color: darkblue;
+  }
+  
+  .item-card-container p {
+    color: black;
+  }
+  
+  /* Add more styles as needed for your item card */
+  

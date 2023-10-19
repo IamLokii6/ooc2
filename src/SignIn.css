@@ -1,0 +1,43 @@
+.signin-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: skyblue;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .signin-container h2 {
+    color: darkblue;
+  }
+  
+  .signin-container .form-group {
+    margin: 10px 0;
+  }
+  
+  .signin-container label {
+    color: black;
+  }
+  
+  .signin-container input[type="text"],
+  .signin-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .signin-container button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .signin-container button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
